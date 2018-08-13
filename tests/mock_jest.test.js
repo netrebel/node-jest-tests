@@ -1,5 +1,5 @@
-const app = require('../app');
-const math = require('../math');
+const app = require('../src/app');
+const math = require('../src/math');
 
 /**
  * Here we simply “spy” calls to the math function, but leave the original implementation in place:
